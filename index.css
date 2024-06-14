@@ -160,3 +160,52 @@ a{
   font-weight: bold;
   width: 840px;
 }
+
+
+.section-4{
+  padding: 100px 200px;
+}
+
+.section-4 .box{
+  background-color: #3882F6;
+  padding: 50px 100px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.section-4 .title{
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+
+.section-4 .subtext {
+  color: white;
+  font-size: 18px;
+  font-weight: 300 ;
+
+
+}
+
+.section-4 button {
+  color: white;
+  background-color: #3882F6;
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+  font-weight: 300;
+  font-size: 20px;
+  padding: 5px 25px;
+  border-radius: 5px;
+
+}
+
+button{
+  cursor: pointer;
+}
+
+
