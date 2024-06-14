@@ -209,3 +209,11 @@ button{
 }
 
 
+.footer{
+  padding: 50px 200px;
+  background-color:#1F2937 ;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 300;
+}
